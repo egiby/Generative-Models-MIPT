@@ -10,3 +10,8 @@ Seminar. Likelihood [![Open In Colab](https://colab.research.google.com/assets/c
 - Likelihood model in 1D - fitting histogram using SGD
 - Deep Autoregressive model in 2D
 - Detaled study of RealNVP model in 2D
+
+Homework. PixelCNN
+
+- PixelCNN on Shapes and MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/main/module1-likelihood/homework_part1.ipynb)
+- Conditional PixelCNNs on Shapes and MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/main/module1-likelihood/homework_part2.ipynb)
