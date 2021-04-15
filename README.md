@@ -15,3 +15,10 @@ Homework. PixelCNN
 
 - PixelCNN on Shapes and MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/main/module1-likelihood/homework_part1.ipynb)
 - Conditional PixelCNNs on Shapes and MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/main/module1-likelihood/homework_part2.ipynb)
+
+## Module 2. Latent variable models
+
+Homework. VAE
+
+- Latent variable models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/hw2/module2-vae/latent_variable_models.ipynb)
+
