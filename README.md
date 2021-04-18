@@ -1,7 +1,7 @@
 # Generative-Models-MIPT
 Seminars and homeworks on master's course "Generative Models in Computer Vision" from ABBYY chair at MIPT (spring 2021)
 
-Credit: these notebooks are based on homeworks from "Deep Unsupervised Learning" by Berkeley and spring 2020 iteration of this cource by Aleksey Zhuravlev and Andrey Zharkov
+Credit: these notebooks are based on homeworks from "Deep Unsupervised Learning" by Berkeley and spring 2020 iteration of this course by Aleksey Zhuravlev and Andrey Zharkov
 
 # Seminars and homeworks
 
