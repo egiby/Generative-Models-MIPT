@@ -5,13 +5,9 @@ Seminars and homeworks on master's course "Generative Models in Computer Vision"
 
 ## Module 1. Likelihood-based models
 
-Seminar. Likelihood [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/main/module1-likelihood/likelihood.ipynb)
+Homework. Likelihood
 
-- Likelihood model in 1D - fitting histogram using SGD
-- Deep Autoregressive model in 2D
-- Detaled study of RealNVP model in 2D
-
-Homework. PixelCNN
-
-- PixelCNN on Shapes and MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/main/module1-likelihood/homework_part1.ipynb)
-- Conditional PixelCNNs on Shapes and MNIST [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/main/module1-likelihood/homework_part2.ipynb)
+- Warmup [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/main/module1-likelihood/homework_part1.ipynb)
+- PixelCNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/main/module1-likelihood/homework_part2.ipynb)
+- Conditional PixelCNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/main/module1-likelihood/homework_part3.ipynb)
+- RealNVP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/main/module1-likelihood/homework_part4.ipynb)
