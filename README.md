@@ -10,3 +10,6 @@ Homeworks on master's course "Generative Models in Computer Vision" from ABBYY c
 - Conditional PixelCNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/spring22/module1-likelihood/homework_part3.ipynb)
 - RealNVP [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/spring22/module1-likelihood/homework_part4.ipynb)
 
+## Module 2. Latent variable models
+
+- VAE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/spring22/module2-vae/latent_variable_models.ipynb)
