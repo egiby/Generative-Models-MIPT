@@ -1,5 +1,5 @@
 # Generative-Models-MIPT
-Homeworks on master's course "Generative Models in Computer Vision" from ABBYY chair at MIPT (spring 2022)
+Homeworks on master's course "Generative Models in Computer Vision" at MIPT (spring 2023)
 
 # Homeworks
 
