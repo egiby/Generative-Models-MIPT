@@ -4,6 +4,7 @@ Homeworks on master's course "Generative Models in Computer Vision" at MIPT (spr
 # Seminars
 
 - Likelihood-based models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/hw1/module1-likelihood/seminar.ipynb)
+- Latent variable models [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/hw2/module2-vae/seminar.ipynb)
 
 # Homeworks
 
@@ -15,4 +16,4 @@ Homeworks on master's course "Generative Models in Computer Vision" at MIPT (spr
 
 ## Module 2. Latent variable models
 
-- VAE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/spring22/module2-vae/latent_variable_models.ipynb)
+- VQ-VAE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/hw2/module2-vae/vq-vae.ipynb)
