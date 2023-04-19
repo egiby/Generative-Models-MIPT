@@ -18,3 +18,7 @@ Homeworks on master's course "Generative Models in Computer Vision" at MIPT (spr
 ## Module 2. Latent variable models
 
 - VQ-VAE [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/hw2/module2-vae/vq-vae.ipynb)
+
+## Module 3. Implicit models
+
+- GANs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/egiby/Generative-Models-MIPT/blob/hw3/module3-gans/gans.ipynb)
